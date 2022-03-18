@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Linktree-Clone/static/css/main.cef788ea.chunk.css",
+    "main.js": "/Linktree-Clone/static/js/main.700aba61.chunk.js",
+    "main.js.map": "/Linktree-Clone/static/js/main.700aba61.chunk.js.map",
+    "runtime~main.js": "/Linktree-Clone/static/js/runtime~main.7ce5f81a.js",
+    "runtime~main.js.map": "/Linktree-Clone/static/js/runtime~main.7ce5f81a.js.map",
+    "static/js/2.e2e1a76c.chunk.js": "/Linktree-Clone/static/js/2.e2e1a76c.chunk.js",
+    "static/js/2.e2e1a76c.chunk.js.map": "/Linktree-Clone/static/js/2.e2e1a76c.chunk.js.map",
+    "index.html": "/Linktree-Clone/index.html",
+    "precache-manifest.09f80d87797d92d15cb706685057f378.js": "/Linktree-Clone/precache-manifest.09f80d87797d92d15cb706685057f378.js",
+    "service-worker.js": "/Linktree-Clone/service-worker.js",
+    "static/css/main.cef788ea.chunk.css.map": "/Linktree-Clone/static/css/main.cef788ea.chunk.css.map",
+    "static/media/default.png": "/Linktree-Clone/static/media/default.6a69c88b.png",
+    "static/media/edit.svg": "/Linktree-Clone/static/media/edit.320800a3.svg",
+    "static/media/trash.svg": "/Linktree-Clone/static/media/trash.b740e4d1.svg"
+  }
+}
